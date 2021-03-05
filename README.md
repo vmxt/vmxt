@@ -1,6 +1,6 @@
 ## Hi 👋🏼, I'm Adrian
 
-Aspiring Web Developer. Technically, I have some good and formal schooling, but by learning different and playing around at web development technologies and tools, I will consider myself as self-taught and looking to nurture. Living in Davao City.
+Aspiring Web Developer. Technically, I have some good and formal schooling, but by learning different and playing around at web development technologies and tools, I will consider myself as self-taught and looking to nurture.
 
 ### Languages, Frameworks, and Tools I use:
 
